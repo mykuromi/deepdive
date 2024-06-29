@@ -30,6 +30,8 @@ export const D20240621 = () => {
 
       <h4>useCallback 3</h4>
       <BuseCallback3 />
+
+      <hr />
     </div>
   );
 };
