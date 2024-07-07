@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 export const BuseEffect = () => {
   // TODO : 무한 렌더링 되는 이유

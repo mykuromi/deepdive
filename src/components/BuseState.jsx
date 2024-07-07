@@ -1,5 +1,3 @@
-import React from "react";
-
 export const BuseState = () => {
   const global = {};
   let index = 0;

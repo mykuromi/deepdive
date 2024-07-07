@@ -1,4 +1,4 @@
-import React, { memo, useEffect, useState } from "react";
+import { memo, useEffect, useState } from "react";
 
 const ChildComponent = memo(({ name, value, onChange }) => {
   useEffect(() => {

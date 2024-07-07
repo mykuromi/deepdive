@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 
 export const BuseCallback3 = () => {
   const [counter, setCounter] = useState(0);
