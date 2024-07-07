@@ -12,8 +12,8 @@ const react = {
 
     if (initialValue instanceof HTMLElement) {
       // 이부분 다시 DOM 찾아가는 로직.....
-      this.ref = initialValue;
-      this.ref.current = initialValue.value;
+      this.ref.current = initialValue;
+      //this.ref.current = initialValue.value;
     } else {
       this.ref.current = initialValue;
     }
