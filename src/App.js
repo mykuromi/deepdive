@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import { D20240621, D20240629, D20240706, Home } from "./pages";
+import { D20240621, D20240629, D20240706, D20240713, Home } from "./pages";
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
         <Route path="/D20240621" element={<D20240621 />} />
         <Route path="/D20240629" element={<D20240629 />} />
         <Route path="/D20240706" element={<D20240706 />} />
+        <Route path="/D20240713" element={<D20240713 />} />
       </Routes>
     </div>
   );

@@ -14,6 +14,12 @@ export const Home = () => {
         <li>
           <a href="/D20240706">2024.07.26 useReducer, useImperativeHandle</a>
         </li>
+        <li>
+          <a href="/D20240713">2024.07.13 useLayoutEffect, useDebugValue</a>
+        </li>
+        <li>
+          <a href="/D20240720">2024.07.20 Custom Hooks, </a>
+        </li>
       </ul>
     </div>
   );
