@@ -8,7 +8,7 @@ const ExpensiveComponent = ({ value }) => {
   return <span>{value + 1000}</span>;
 };
 
-export const BuseMemo = () => {
+export const BuseMemo1 = () => {
   const [value, setValue] = useState(10);
 
   // useMemo value가 변하지 않는 이상 렌더링 X

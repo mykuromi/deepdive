@@ -1,4 +1,7 @@
-export * from "./BuseMemo";
+export * from "./BhigherOrderComponent1";
+export * from "./BhigherOrderComponent2";
+
+export * from "./Bhooks";
 
 export * from "./BuseCallback1";
 export * from "./BuseCallback2";
@@ -20,6 +23,9 @@ export * from "./BforwardRef2";
 export * from "./BuseImperativeHandle";
 
 export * from "./BuseLayoutEffect";
+
+export * from "./BuseMemo1";
+export * from "./BuseMemo2";
 
 export * from "./BuseReducer";
 

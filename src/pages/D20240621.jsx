@@ -1,7 +1,7 @@
 import {
   BuseState,
   CuseState,
-  BuseMemo,
+  BuseMemo1,
   BuseCallback1,
   BuseCallback2,
   BuseCallback3,
@@ -19,7 +19,7 @@ export const D20240621 = () => {
       <BuseState />
 
       <h4>useMemo</h4>
-      <BuseMemo />
+      <BuseMemo1 />
 
       <h4>useCallback 1</h4>
       <BuseCallback1 />

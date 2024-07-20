@@ -18,7 +18,9 @@ export const Home = () => {
           <a href="/D20240713">2024.07.13 useLayoutEffect, useDebugValue</a>
         </li>
         <li>
-          <a href="/D20240720">2024.07.20 Custom Hooks, </a>
+          <a href="/D20240720">
+            2024.07.20 Custom Hooks, memo & useMemo, Higher Order Component
+          </a>
         </li>
       </ul>
     </div>
